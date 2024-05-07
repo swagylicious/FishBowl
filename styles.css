@@ -460,5 +460,6 @@ body{
     left: 6rem;
     width: 2rem;
     height: 1rem;
-    border: ;
+    border-radius: 50%;
+    background: linear-gradient(90deg, #919ea3, #619cb5 150%);
 }
