@@ -11,5 +11,7 @@ const emptyFishbowl = () => setInterval(() => {
         clearInterval(intervalId);
     }else if(fill < 20){
         fish.style = `fishbowl__fish--dead`;
+    }else if(fill < 50){
+        fish.style = `fishbowl__fish--sick`;
     }
 }, 200);
