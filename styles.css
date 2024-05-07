@@ -425,5 +425,7 @@ body{
     height: 0;
     border-radius: 50% 50% 0 0;
     border-top: 2 rem solid #919ea3;
-    border-top: 2 rem solid #919ea3;
+    border-left: 2 rem solid #919ea3;
+    border-right: 2 rem solid #919ea3;
+    box-shadow: 1px -1px 0 0 #f1f1f1;
 }
