@@ -5,7 +5,10 @@ html{
 @media screen and (min-width: 400px){
     html{
         font-size: 19px;
-    }
-    
-    
+    }    
+}
+
+body{
+    display: flex;
+    justify-content: center;
 }
