@@ -54,7 +54,7 @@ body{
     }
 
     55%{
-        transform: translatex(2.5rem) translateY(-0.5rem) scaleX(-1);
+        transform: translatex(2.5rem) translateY(-1rem) scaleX(-1);
     }
 
     95%{
