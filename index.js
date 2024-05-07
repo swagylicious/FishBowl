@@ -18,3 +18,5 @@ const emptyFishbowl = () => setInterval(() => {
         fish.classList.remove(`fishbowl__fish--dying`);
     }
 }, 200);
+
+intervalId = emptyFishbowl();
