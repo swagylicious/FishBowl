@@ -12,6 +12,7 @@ const emptyFishbowl = () => setInterval(() => {
     }else if(fill < 20){
         fish.classList.add(`fishbowl__fish--dead`);
     }else if(fill < 50){
-        fish.style = `fishbowl__fish--sick`;
+        fish.classList.add(`fishbowl__fish--sick`);
+        fish.classList.remove(`fishbowl__fish--dead`);
     }
 }, 200);
