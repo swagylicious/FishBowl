@@ -164,4 +164,6 @@ body{
     height: calc(1% * var(--filling, 90));
     background: linear-gradient(transparent -50%, rgb(50, 7, 202) 250%);
     border-radius: 20% 20% 4rem 4rem;
+    transition: height 0.5s linear;
 }
+
