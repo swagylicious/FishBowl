@@ -347,7 +347,7 @@ body{
     animation: handle 0.5s;
 }
 
-.fishbowl__tap-stream{
+.fishbowl__tap-base{
     position: absolute;
     top: 0;
     left: 50%;
