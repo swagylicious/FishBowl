@@ -357,3 +357,8 @@ body{
     box-shadow: inset -1px -1px 0 0px rgba(255, 255, 255, 0.5);
     background: linear-gradient(#618aaf, #3b5f7f 150%);
 }
+
+.fishbowl__tap-base::before{
+    content: "";
+    
+}
