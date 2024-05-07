@@ -21,7 +21,7 @@ const emptyFishbowl = () => setInterval(() => {
 
 intervalId = emptyFishbowl();
 
-tap.addEventListener('hover', () => {
+tap.addEventListener('click', () => {
     tap.classList.add('fishbowl__tap--active');
     setTimeout(() => tap.classList.remove('fishbowl__tap--active'), 500);
     if (fill <= 0) {
