@@ -418,7 +418,6 @@ body{
 }
 
 .fishbowl__tap-head{
-    content: "";
     position: absolute;
     top: 0;
     left: 0;
