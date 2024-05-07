@@ -77,6 +77,15 @@ body{
     }
 }
 
+@keyframes stream {
+    0%{
+        height: 0;
+    }
+    100%{
+        height: 100%;
+    }
+}
+
 .fishbowl{
     position: relative;
     width: 15rem;
