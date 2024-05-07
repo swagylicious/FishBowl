@@ -382,4 +382,14 @@ body{
     border-radius: 0 0 1.2rem 1.2rem;
 }
 
-
+.fishbowl__tap-handle{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background: linear-gradient(#618aaf, #3b5f7f 150%);
+    box-shadow: 0 0 0 0.5rem rgba(255, 255, 255, 0.5);
+    animation: handle 0.5s;
+}
