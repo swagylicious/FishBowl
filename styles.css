@@ -204,5 +204,5 @@ body{
     animation: swimming;
     animation-duration: 5s;
     animation-iteration-count: infinite;
-    ani
+    animation-fill-mode: forwards;
 }
