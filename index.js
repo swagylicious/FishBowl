@@ -22,5 +22,5 @@ const emptyFishbowl = () => setInterval(() => {
 intervalId = emptyFishbowl();
 
 tap.addEventListener('click', () => {
-    tap.
+    tap.classList.add()
 }
