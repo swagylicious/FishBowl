@@ -28,6 +28,6 @@ tap.addEventListener('click', () => {
             intervalId = emptyFishbowl();
             fishbowl.classList.add('fishbowl--floating');
         }
-        fill = fill + 10;
+        fill = Math.min(fill + 10, 100);
     };
 });
