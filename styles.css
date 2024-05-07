@@ -241,5 +241,9 @@ body{
 
 .fishbowl__fish--floating{
     bottom: max(calc(var(--filling, 0) * 1% - 15%), 10%);
-    transform: translateX(2.5rem)
+    transform: translateX(2.5rem);
+    animation: none;
+    box-shadow: none;
 }
+
+
