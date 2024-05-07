@@ -264,5 +264,5 @@ body{
     border-bottom: 0.5rem solid transparent;
     border-left: 0.94rem solid rgb(255, 225, 2);
     box-shadow: 0 2rem 4px -2px rgba(0, 0, 56, 0.3);
-    transition: box-shadow 0.5s ease;
+    transition: box-shadow 1s ease;
 }
