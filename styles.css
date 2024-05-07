@@ -479,4 +479,5 @@ body{
     width: 2rem;
     height: 2px;
     background: #f1f1f1;
+    transform: rotate(45deg);
 }
