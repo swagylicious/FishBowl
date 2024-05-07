@@ -409,8 +409,8 @@ body{
 .fishbowl__tap-stream{
     position: absolute;
     top: 2rem;
-    left: ;
-    width: 2rem;
+    left: 6.25rem;
+    width: 1.5rem;
     height: 0;
     background: linear-gradient(transparent, #f1f1f1 50%);
     border-radius: 0 0 1.2rem 1.2rem;
