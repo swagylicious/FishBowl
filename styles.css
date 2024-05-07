@@ -239,4 +239,6 @@ body{
     height: 0.125rem;
 }
 
-.fishbowl__fish-
+.fishbowl__fish--floating{
+    animation: swimming 5s infinite forwards;
+}
