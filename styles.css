@@ -35,6 +35,6 @@ body{
     }
 
     95%{
-        transform: translateX(0) translateY(-1rem) skewY(-5deg);
+        transform: translateX(0) scaleY(-1) skewY(10deg);
     }
 }
