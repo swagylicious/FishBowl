@@ -129,6 +129,12 @@ body{
 
 .fishbowl__seaweed--1{
     bottom: 15%;
-    left: 35%;
+    left: 20%;
     border-bottom: 5rem solid #50947e;
+}
+
+.fishbowl__seaweed--2{
+    bottom: 15%;
+    left: 60%;
+    border-bottom: 6rem solid #50947e;
 }
