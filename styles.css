@@ -54,10 +54,10 @@ body{
     }
 
     55%{
-        transform: translateX(-5rem) translateY(-0.5rem) scaleX(-1);
+        transform: translatex(2.5rem) translateY(-0.5rem) scaleX(-1);
     }
 
     95%{
-        transform: translateX(0) scaleY(-1) skewY(-10deg);
+        transform: translatex(2.5rem) scaleY(-1) skewY(-10deg);
     }
 }
