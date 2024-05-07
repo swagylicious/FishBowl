@@ -390,6 +390,6 @@ body{
     height: 2rem;
     border-radius: 0.2rem;
     border-top: 1px solid #f1f1f1;
-    border-left: ;
+    border-right: 1px ;
     animation: handle 0.5s;
 }
