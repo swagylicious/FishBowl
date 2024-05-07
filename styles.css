@@ -475,7 +475,7 @@ body{
     content: "";
     position: absolute;
     bottom: -1rem;
-    right: -1rem;
+    right: 0;
     width: 2rem;
     height: 2px;
     background: #f1f1f1;
