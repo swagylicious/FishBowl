@@ -91,6 +91,10 @@ body{
     }
 }
 
+@keyframes handle{
+    
+}
+
 .fishbowl{
     position: relative;
     width: 15rem;
