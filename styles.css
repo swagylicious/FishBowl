@@ -355,4 +355,5 @@ body{
     height: 14rem;
     border-radius: 0 0 1.2rem 1.2rem;
     box-shadow: inset -1px -1px 0 0px rgba(255, 255, 255, 0.5);
+    background: linear-gradient();
 }
