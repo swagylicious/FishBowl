@@ -391,7 +391,7 @@ body{
     border-radius: 0.2rem;
     border-top: 1px solid #f1f1f1;
     border-right: 1px solid rgba(255, 255, 255, 0.5);
-    background: radial-gradient(circle at 0 0, #f1f1f1 -100%, #3866a2);
+    background: radial-gradient(circle at 0 0, #f1f1f1 -100%, #919ea3);
     transform: rotate(45deg);
 }
 
