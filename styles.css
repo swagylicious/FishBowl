@@ -74,4 +74,17 @@ body{
     height: 100%;
     border-radius: 50% 50% 40% 40%;
     background: linear-gradient(transparent 10%, #f1f1f1 150%);
+    border-bottom: 1px solid #fff;
+}
+
+.fishbowl::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background-color: #f1f1f1;
 }
