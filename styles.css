@@ -395,7 +395,7 @@ body{
     transform: rotate(45deg);
 }
 
-.fishbowl__tap-hanlde::after{
+.fishbowl__tap-handle::after{
     content: "";
     position: absolute;
     top: 0.5rem;
