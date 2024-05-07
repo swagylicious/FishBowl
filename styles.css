@@ -81,7 +81,7 @@ body{
     content: '';
     position: absolute;
     bottom: 9.5rem;
-    
+    left: 2rem;
     transform: translate(-50%, -50%);
     width: 10rem;
     height: 10rem;
