@@ -78,7 +78,7 @@ body{
 }
 
 .fishbowl::before{
-    content: '';
+    content: "";
     position: absolute;
     bottom: 9.5rem;
     left: 2rem;
