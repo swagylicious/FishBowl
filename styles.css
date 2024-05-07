@@ -17,7 +17,12 @@ body{
 }
 
 @keyframes swimming {
-    0%, 100% {
-        transform: translateY(0);
+    0%, 
+    100% {
+        transform: translatex(0);
+    }
+
+    22.5% {
+        transform: translatex(50%);
     }
 }
