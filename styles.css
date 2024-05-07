@@ -428,7 +428,7 @@ body{
     border-left: 2 rem solid #919ea3;
     border-right: 2 rem solid #919ea3;
     box-shadow: 1px -1px 0 0 #fff;
-    background: linear-gradient(90deg, #919ea3, #6d7e85 150%);
+    background: linear-gradient(90deg, #919ea3, #18607f 150%);
 }
 
 .fishbowl__tap-head::before{
