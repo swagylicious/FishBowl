@@ -199,8 +199,5 @@ body{
     background: linear-gradient(#f1f1f1 -200%, rgb(255, 225, 2) 200%);
     box-shadow: 0 2rem 4px -2px rgba(0, 0, 56, 0.3);
     transition-property: bottom 1s ease, transform 1s ease, box-shadow 1s ease;
-    animation: swimming;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
+    animation: swimming 5s infinite forwards;
 }
