@@ -186,5 +186,5 @@ body{
     width: 70%;
     height: 20%;
     border-radius: 50%;
-    background: linear-gradient(transparent 10%, #f1f1f1 150%);
+    box-shadow: 0 2px 2px 3px;
 }
