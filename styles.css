@@ -33,4 +33,8 @@ body{
     55%{
         transform: translateX(5rem) translateY(-0.5rem) scaleX(-1);
     }
+
+    95%{
+        transform: translateX(1rem) translateY(-1rem) skewY(-5deg);
+    }
 }
