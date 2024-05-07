@@ -126,3 +126,9 @@ body{
     border-right: 0.5rem solid transparent;
     border-bottom: 5rem solid #50947e;
 }
+
+.fishbowl__seaweed--1{
+    top: 0;
+    left: 0;
+    transform: rotate(10deg);
+}
