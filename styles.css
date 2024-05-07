@@ -368,4 +368,5 @@ body{
     height: 100%;
     border-radius: 1rem 1rem 0 0;
     box-shadow: -4rem 10rem 1rem 0 rgba(0, 0, 56, 0.3);
+    transform: rotate(-70deg);
 }
