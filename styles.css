@@ -175,5 +175,6 @@ body{
     width: 90%;
     height: 3rem;
     border-radius: 50%;
-    background: linear-gradient(transparent 0%, );
+    background: linear-gradient(transparent 0%, rgb(50, 7, 202) 250%);
+    
 }
