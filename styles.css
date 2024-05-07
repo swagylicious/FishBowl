@@ -31,6 +31,6 @@ body{
     }
 
     55%{
-        transform: translateX(5rem) translateY(1rem) scaleX(-1);
+        transform: translateX(5rem) translateY(-0.5rem) scaleX(-1);
     }
 }
