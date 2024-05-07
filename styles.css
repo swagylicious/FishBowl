@@ -147,7 +147,7 @@ body{
 
 .fishbowl__water{
     position: absolute;
-    top: 10%;
+    bottom: 5%;
     left: 10%;
     width: 80%;
     height: 80%;
