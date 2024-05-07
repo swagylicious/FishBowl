@@ -258,12 +258,5 @@ body{
     position: absolute;
     top: 25%;
     left: 0;
-    width: 0;
-    height: 0;
-    border-left: 1rem solid transparent;
-    border-right: 1rem solid transparent;
-    border-bottom: 2rem solid #f1f1f1;
-    transform: rotate(90deg);
-    box-shadow: 0 2rem 4px -2px rgba(0, 0, 56, 0.3);
-    transition: height 0.5s ease;
+    
 }
