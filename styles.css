@@ -316,12 +316,5 @@ body{
 }
 
 .fishbowl__tap::before{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 50%;
-    width: 0.5rem;
-    height: 100%;
-    background: linear-gradient(transparent 0%, #f1f1f1 50%, transparent 100%);
-    transform: rotate(45deg);
+    
 }
