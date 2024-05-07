@@ -197,5 +197,5 @@ body{
     height: 1rem;
     border-radius: 50%;
     background: linear-gradient(#f1f1f1 -200%, rgb(255, 225, 2) 200%);
-    box-shadow: ;
+    box-shadow: 0 2rem ;
 }
