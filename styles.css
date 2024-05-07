@@ -240,5 +240,5 @@ body{
 }
 
 .fishbowl__fish--floating{
-    bottom: max(calc(var(--filling)), 10%);
+    bottom: max(calc(var(--filling, 0) ), 10%);
 }
