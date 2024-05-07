@@ -370,3 +370,14 @@ body{
     box-shadow: -4rem 10rem 1rem 0 rgba(0, 0, 56, 0.3);
     transform: rotate(-70deg);
 }
+
+.fishbowl__tap-base::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background: linear-gradient(#618aaf, #3b5f7f 150%);
+}
