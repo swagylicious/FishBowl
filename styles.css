@@ -115,5 +115,16 @@ body{
     top: 20%;
     left: 5%;
     width: 90%;
-    height: 60%;
+    height: 75%;
+}
+
+.fishbowl__decoration::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, transparent 50%, #f1f1f1 150%);
+    border-radius: 50%;
 }
