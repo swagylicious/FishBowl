@@ -86,7 +86,7 @@ body{
         height: calc(14rem - var(--filling, 90) * 0.1rem);
     }
     100%{
-        top: calc();
+        top: calc(2rem + 14rem - var(--filling, 90) * 0.1rem);
         height: 0;
     }
 }
