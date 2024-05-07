@@ -392,5 +392,7 @@ body{
     border-top: 1px solid #f1f1f1;
     border-right: 1px solid rgba(255, 255, 255, 0.5);
     background: radial-gradient(circle at 0 0, #f1f1f1 -200%, #3866a2);
-    animation: handle 0.5s;
+    transform: rotate(45deg);
 }
+
+
