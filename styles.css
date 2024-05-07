@@ -471,7 +471,7 @@ body{
     color: #f1f1f1;
 }
 
-.fishbowl__tap-text span{
+.fishbowl__tap-text::after{
     display: block;
     font-size: 0.8rem;
     font-weight: bold;
