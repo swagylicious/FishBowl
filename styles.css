@@ -395,4 +395,8 @@ body{
     transform: rotate(45deg);
 }
 
-
+.fishbowl__tap-hanlde::after{
+    content: "";
+    position: absolute;
+    top: 0.5rem;
+}
