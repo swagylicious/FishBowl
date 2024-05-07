@@ -196,5 +196,6 @@ body{
     width: 2rem;
     height: 1rem;
     border-radius: 50%;
-    background: linear-gradient(#f1f1f1 -200%, rgba(254, 178, 0, 0.293) 200%);
+    background: linear-gradient(#f1f1f1 -200%, rgb(255, 225, 2) 200%);
+    
 }
