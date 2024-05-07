@@ -207,8 +207,8 @@ body{
     position: absolute;
     top: 15%;
     left: 15%;
-    width: 0.5rem;
-    height: 0.5rem;
+    width: 0.25rem;
+    height: 0.25rem;
     border-radius: 50%;
     background: #f1f1f1;
     box-shadow: 0.5rem 0.5rem 0 0 rgba(0, 0, 0, 0.3);
