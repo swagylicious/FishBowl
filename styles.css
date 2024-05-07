@@ -469,5 +469,11 @@ body{
     top: 4rem;
     left: -6rem;
     color: #f1f1f1;
-    
+}
+
+.fishbowl__tap-text span{
+    display: block;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
 }
