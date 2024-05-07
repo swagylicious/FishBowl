@@ -218,3 +218,7 @@ body{
     bottom: 10%;
     box-shadow: 0 1rem 4px -2px rgba(0, 0, 56, 0.3);
 }
+
+.fishbowl__fish--dying::after{
+    height: 0;
+}
