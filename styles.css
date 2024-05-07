@@ -474,7 +474,7 @@ body{
 .fishbowl__tap-text::after{
     content: "";
     position: absolute;
-    bottom: 0;
+    bottom: -34px;
     right: 0;
     width: 3rem;
     height: 2px;
