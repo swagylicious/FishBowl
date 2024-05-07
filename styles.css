@@ -247,5 +247,6 @@ body{
 }
 
 .fishbowl__fish--floating::after{
-    height: 0.125rem;
+    height: 2rem;
 }
+
