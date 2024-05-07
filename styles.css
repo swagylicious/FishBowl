@@ -307,5 +307,6 @@ body{
 }
 
 .fishbowl__tap{
-    
+    position: absolute;
+    top: 0;
 }
