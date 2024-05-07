@@ -210,6 +210,6 @@ body{
     width: 0.25rem;
     height: 0.25rem;
     border-radius: 50%;
-    background: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+    background: linear-gradient(circle at 0 0, rgba(0, 0, 0, 0.5) 100%);
     box-shadow: 0.5rem 0.5rem 0 0 rgba(0, 0, 0, 0.3);
 }
