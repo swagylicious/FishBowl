@@ -95,7 +95,9 @@ body{
     from{
         transform: rotate(45deg);
     }
-    
+    to{
+        transform: rotate(405deg);
+    }
 }
 
 .fishbowl{
