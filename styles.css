@@ -201,4 +201,5 @@ body{
     transition-property: bottom, transform box-shadow;
     transition-duration: 1s;
     transition-timing-function: ease;
+    
 }
