@@ -482,6 +482,6 @@ body{
     transform: rotate(45deg);
 }
 
-@media screen {
+@media screen and (max-width: 420px) {
     
 }
