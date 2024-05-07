@@ -26,7 +26,7 @@ tap.addEventListener('click', () => {
     setTimeout(() => tap.classList.remove('fishbowl__tap--active'), 500);{
         if (fill <= 0) {
             intervalId = emptyFishbowl();
-            fishbowl
+            fishbowl.classList.add('fishbowl--floating');
         }
         if (fill === 100) {
             clearInterval(intervalId);
