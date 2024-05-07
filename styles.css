@@ -461,5 +461,5 @@ body{
     width: 2rem;
     height: 1rem;
     border-radius: 50%;
-    background: linear-gradient(#f1f1f1 -70%, #3866a2);
+    background: linear-gradient(#f1f1f1 -70%, rgb(50, 7, 202) 200%);
 }
