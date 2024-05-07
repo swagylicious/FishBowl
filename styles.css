@@ -235,4 +235,6 @@ body{
     box-shadow: none;
 }
 
-.fishbowl__fish--dead::after
+.fishbowl__fish--dead::after{
+    height: 0.125rem;
+}
