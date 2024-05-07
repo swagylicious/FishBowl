@@ -97,5 +97,5 @@ body{
     width: 95%;
     height: 85%;
     border-radius: 40%;
-    background: linear-gradient(135deg, , transparent#f1f1f1 10% 150%);
+    background: linear-gradient(135deg,transparent, #f1f1f1 10% 150%);
 }
