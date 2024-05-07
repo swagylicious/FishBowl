@@ -26,4 +26,4 @@ tap.addEventListener('click', () => {
     setTimeout(() => tap.classList.remove('fishbowl__tap--active'), 500);{
         
     };
-}
+});
