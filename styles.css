@@ -403,5 +403,5 @@ body{
     width: 1rem;
     height: 1rem;
     border-radius: 50%;
-    background: radial-gradient(circle at 0 0, transparent 50%, #f1f1f1 150%);
+    background: radial-gradient(circle at 0 0, #f1f1f1 -200%, #3866a2);
 }
