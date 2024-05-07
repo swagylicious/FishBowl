@@ -214,7 +214,7 @@ body{
     transition: height 0.5s ease;
 }
 
-.fishbowl__fish--dead{
+.fishbowl__fish--dying{
     content: "";
     position: absolute;
     top: 25%;
