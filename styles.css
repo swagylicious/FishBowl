@@ -360,5 +360,9 @@ body{
 
 .fishbowl__tap-base::before{
     content: "";
-    
+    position: absolute;
+    z-index: -1;
+    bottom: 4rem;
+    right: 15rem;
+    width: 100%;
 }
