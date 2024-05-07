@@ -312,7 +312,7 @@ body{
     width: 50%;
     height: 15%;
     border-radius: 50%;
-    background: linear-gradient(#f1f1f1 -100%, #rgb(50, 7, 202));
+    background: linear-gradient(#f1f1f1 -100%, rgb(50, 7, 202));
     opacity: 0.5;
 }
 
