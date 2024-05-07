@@ -234,3 +234,5 @@ body{
 .fishbowl__fish--dead .fishbowl__fish-tail{
     box-shadow: none;
 }
+
+.fishbowl__fish--dead::after
