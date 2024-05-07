@@ -315,6 +315,6 @@ body{
     cursor: pointer;
 }
 
-.fishbowl__tap::before{
+.fishbowl__tap--active .{
     
 }
