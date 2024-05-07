@@ -167,4 +167,6 @@ body{
     transition: height 0.5s linear;
 }
 
-.fishbowl::after
+.fishbowl__water-color::after{
+    
+}
