@@ -100,3 +100,13 @@ body{
     background: linear-gradient(135deg, transparent 50%, #f1f1f1 150%);
 }
 
+.fishbowl__bottom{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 10rem;
+    height: 5rem;
+    background: #f1f1f1;
+    border-radius: 50%;
+    transform: translateX(-50%);
+}
