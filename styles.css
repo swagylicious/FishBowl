@@ -83,7 +83,7 @@ body{
     }
     50%{
         top: 0;
-        height: calc();
+        height: calc(14rem - var(--filling, 90) * 0.14rem);
     }
 }
 
