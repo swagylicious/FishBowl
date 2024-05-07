@@ -23,11 +23,11 @@ intervalId = emptyFishbowl();
 
 tap.addEventListener('click', () => {
     tap.classList.add('fishbowl__tap--active');
-    setTimeout(() => tap.classList.remove('fishbowl__tap--active'), 500);{
+    setTimeout(() => tap.classList.remove('fishbowl__tap--active'), 500);
         if (fill <= 0) {
             intervalId = emptyFishbowl();
             fishbowl.classList.add('fishbowl--floating');
         }
         fill = Math.min(fill + 20, 90);
-    };
+
 });
