@@ -205,7 +205,7 @@ body{
 .fishbowl__fish::before{
     content: "";
     position: absolute;
-    top: 0.5rem;
+    top: 15%;
     left: 0.5rem;
     width: 0.5rem;
     height: 0.5rem;
