@@ -6,5 +6,5 @@ const tap    = document.getElementById('tap');
 
 const emptyFishbowl = () => setInterval(() => {
     fill = fill - 1;
-    fishbowl.style = ``
+    fishbowl.style = `--filling`
 }, 200);
