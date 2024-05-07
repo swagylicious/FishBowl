@@ -50,7 +50,7 @@ body{
     }
 
     45%{
-        transform: translatex(2.5rem) translateY(-1rem) skewY(-5deg);
+        transform: translatex(2.5rem) skewY(-5deg);
     }
 
     55%{
