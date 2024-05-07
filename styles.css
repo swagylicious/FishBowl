@@ -31,6 +31,6 @@ body{
     }
 
     55%{
-        transform: ;
+        transform: translateX(5rem) translateY(1rem) skewY(-5deg);
     }
 }
