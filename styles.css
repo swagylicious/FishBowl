@@ -240,5 +240,5 @@ body{
 }
 
 .fishbowl__fish--floating{
-    bottom: maxc;
+    bottom: max(calc());
 }
