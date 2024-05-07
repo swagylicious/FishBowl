@@ -230,3 +230,7 @@ body{
     animation-fill-mode: forwards;
     box-shadow: none
 }
+
+.fishbowl__fish--dead::after{
+    
+}
