@@ -224,5 +224,6 @@ body{
 }
 
 .fishbowl__fish--dead{
-    animation: dead 3s none none 2 normal fill-mode;
+    animation: dead 3s none none 2 normal forwards;
+    box-shadow: none
 }
