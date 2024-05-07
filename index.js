@@ -9,7 +9,7 @@ const emptyFishbowl = () => setInterval(() => {
     fishbowl.style = `--filling: ${fill}%`;
     if (fill <= 0) {
         clearInterval(intervalId);
-    }else if(fill <= 20){
+    }else if(fill < 20){
         fish.style = `--filling: ${fill}%`;
     }
 }, 200);
