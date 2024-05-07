@@ -58,6 +58,6 @@ body{
     }
 
     95%{
-        transform: translatex(2.5rem) scaleY(-1) skewY(-10deg);
+        transform: translatex(2.5rem) skewY(5deg);
     }
 }
