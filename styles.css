@@ -185,5 +185,6 @@ body{
     left: 15%;
     width: 70%;
     height: 20%;
-    border-radius: ;
+    border-radius: 50%;
+    background: linear-gradient(transparent 10%, #f1f1f1 150%);
 }
