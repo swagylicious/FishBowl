@@ -438,6 +438,6 @@ body{
     right: 23rem;
     width: 150%;
     height: 200%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4) 60%, transparent 200%);
+    
     border-radius: 50% 50% 0 0;
 }
