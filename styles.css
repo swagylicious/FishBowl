@@ -472,8 +472,11 @@ body{
 }
 
 .fishbowl__tap-text::after{
-    display: block;
-    font-size: 0.8rem;
-    font-weight: bold;
-    text-align: center;
+    content: "";
+    position: absolute;
+    bottom: -1rem;
+    right: -1rem;
+    width: 2rem;
+    height: 2px;
+    background: #f1f1f1;
 }
