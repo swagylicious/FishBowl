@@ -256,7 +256,7 @@ body{
 
 .fishbowl__fish-tail{
     position: absolute;
-    top: 25%;
-    left: 0;
+    top: 0;
+    left: -0.75rem;
     
 }
