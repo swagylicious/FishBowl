@@ -268,5 +268,12 @@ body{
 }
 
 .fishbowl__pool{
-    
+    position: absolute;
+    right: 0;
+    bottom: -5%;
+    width: 50%;
+    height: 15%;
+    border-radius: 50%
+    ;
+
 }
