@@ -343,4 +343,6 @@ body{
     
 }
 
-.fishbowl__tap--hanlde
+.fishbowl__tap--active .fishbowl__tap-handle{
+    animation: handle 0.5s;
+}
