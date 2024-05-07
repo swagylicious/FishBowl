@@ -10,17 +10,17 @@ const emptyFishbowl = () => setInterval(() => {
     if (fill <= 0) {
         clearInterval(intervalId);
     }else if(fill < 20){
-        fish.classList.add(`fishbowl__fish--dead`);
+        fish.classList.add('fishbowl__fish--dead');
     }else if(fill < 50){
-        fish.classList.add(`fishbowl__fish--dying`);
+        fish.classList.add('fishbowl__fish--dying');
     }else{
-        fish.classList.remove(`fishbowl__fish--dead`);
-        fish.classList.remove(`fishbowl__fish--dying`);
+        fish.classList.remove('fishbowl__fish--dead');
+        fish.classList.remove('fishbowl__fish--dying');
     }
 }, 200);
 
 intervalId = emptyFishbowl();
 
 tap.addEventListener('click', () => {
-    tap.classList.add()
+    tap.classList.add('fishbowl__tap--active');
 }
