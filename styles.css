@@ -201,3 +201,15 @@ body{
     transition-property: bottom 1s ease, transform 1s ease, box-shadow 1s ease;
     animation: swimming 5s infinite forwards;
 }
+
+.fishbowl__fish::before{
+    content: "";
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: #f1f1f1;
+    box-shadow: 0.5rem 0.5rem 0 0 rgba(0, 0, 0, 0.3);
+}
