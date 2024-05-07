@@ -440,5 +440,5 @@ body{
     width: 150%;
     height: 200%;
     box-shadow: -4rem 10rem 1rem 1rem rgba(0, 0, 56, 0.3);
-    transform: rotate(-70deg);
+    transform: rotate(2deg) ;
 }
