@@ -22,10 +22,5 @@ const emptyFishbowl = () => setInterval(() => {
 intervalId = emptyFishbowl();
 
 tap.addEventListener('click', () => {
-    if (intervalId) {
-        clearInterval(intervalId);
-        intervalId = null;
-    } else {
-        intervalId = emptyFishbowl();
-    }
+    
 }
