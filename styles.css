@@ -384,8 +384,8 @@ body{
 
 .fishbowl__tap-handle{
     position: absolute;
-    bottom: -1rem;
-    left: 6rem;
+    bottom: 6rem;
+    left: -1rem;
     width: 2rem;
     height: 2rem;
     border-radius: 50%;
