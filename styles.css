@@ -162,5 +162,5 @@ body{
     left: 0;
     width: 100%;
     height: calc(1% * var(--filling, 90));
-    background: linear-gradient(transparent -50%, rgb(33, 33, 219) 250%);
+    background: linear-gradient(transparent -50%, rgb(50, 7, 202) 250%);
 }
