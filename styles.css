@@ -224,5 +224,5 @@ body{
 }
 
 .fishbowl__fish--dead{
-    animation: dead 3s timing-function delay iteration-count direction fill-mode;
+    animation: dead 3s none none 2 direction fill-mode;
 }
