@@ -438,5 +438,5 @@ body{
     right: 23rem;
     width: 150%;
     height: 200%;
-    box
+    box-shadow: -4rem 10rem 1rem 0 rgba(0, 0, 56, 0.3);
 }
