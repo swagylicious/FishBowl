@@ -388,7 +388,7 @@ body{
     left: -1rem;
     width: 2rem;
     height: 2rem;
-    border-radius: 52rem;
+    border-radius: 0.2rem;
     background: linear-gradient(#618aaf, #3b5f7f 150%);
     box-shadow: 0 0 0 0.5rem rgba(255, 255, 255, 0.5);
     animation: handle 0.5s;
