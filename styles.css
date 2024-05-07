@@ -170,5 +170,6 @@ body{
 .fishbowl__water-color::after{
     content: "";
     position: absolute;
-    top: 0%;
+    top: 0;
+    left: ;
 }
