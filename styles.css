@@ -312,7 +312,7 @@ body{
     width: 50%;
     height: 15%;
     border-radius: 50%;
-    background: linear-gradient(#f1f1f1 -100%, rgb(50, 7, 202));
+    background: linear-gradient(#f1f1f1 -100%, #419197);
     opacity: 0.5;
 }
 
@@ -403,7 +403,7 @@ body{
     width: 1rem;
     height: 1rem;
     border-radius: 50%;
-    background: radial-gradient(circle at 0 0, #f1f1f1 -200%, #3c7bce);
+    background: radial-gradient(circle at 0 0, #f1f1f1 -200%, rgb(50, 7, 202));
 }
 
 .fishbowl__tap-stream{
@@ -412,7 +412,7 @@ body{
     left: 6.25rem;
     width: 1.5rem;
     height: 0;
-    background: linear-gradient(#f1f1f1 -100%, #3c7bce);
+    background: linear-gradient(#f1f1f1 -100%, rgb(50, 7, 202));
     border-radius: 0 0 1.2rem 1.2rem;
     transition: height 0.5s ease;
 }
