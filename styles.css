@@ -486,5 +486,8 @@ body{
     .fishbowl{
         left: 13.5%;
     }
-    .
+    .fishbowl__tap-text{
+        width: 2rem;
+        left: -3rem;
+    }
 }
