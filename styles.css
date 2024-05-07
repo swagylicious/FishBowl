@@ -456,5 +456,7 @@ body{
 
 .fishbowl__tap-end{
     position: absolute;
-    top: 0;
+    top: 1.5rem;
+    left: 6rem;
+    
 }
