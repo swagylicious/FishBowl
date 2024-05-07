@@ -162,4 +162,5 @@ body{
     left: 0;
     width: 100%;
     height: calc(1% * var(--filling, 90));
+    background: linear-gradient(180deg, #00f 0%, #0ff 50%, #00f 100%);
 }
