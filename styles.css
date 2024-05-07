@@ -288,4 +288,5 @@ body{
     border-right: 2px solid #f1f1f1;
     border-radius: 50%;
     animation: wave 3s infinite;
+    opacity: 0.5;
 }
