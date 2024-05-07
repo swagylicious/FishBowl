@@ -106,7 +106,6 @@ body{
     left: 17.5%;
     width: 65%;
     height: 20%;
-    background: #f1f1f1;
+    background: linear-gradient();
     border-radius: 50%;
-    transform: translateX(-50%);
 }
