@@ -85,6 +85,10 @@ body{
         top: 0;
         height: calc(14rem - var(--filling, 90) * 0.1rem);
     }
+    100%{
+        top: calc();
+        height: 0;
+    }
 }
 
 .fishbowl{
