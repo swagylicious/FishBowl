@@ -316,6 +316,6 @@ body{
 }
 
 .fishbowl__tap--active .fishbowl__tap-stream{
-    animation: ;
+    animation: stream 0.5s;
     
 }
