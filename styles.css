@@ -315,6 +315,7 @@ body{
     cursor: pointer;
 }
 
-.fishbowl__tap--active .{
+.fishbowl__tap--active .fishbowl__tap-stream{
+    transform: rotate(45deg);
     
 }
