@@ -287,5 +287,5 @@ body{
     height: 50%;
     border-right: 2px solid #f1f1f1;
     border-radius: 50%;
-    animation: swimming 5s infinite forwards;
+    animation: wave 3s infinite;
 }
