@@ -312,5 +312,6 @@ body{
     left: -3rem;
     width: 12rem;
     height: 16rem;
-    
+    cursor: pointer;
 }
+
