@@ -274,6 +274,6 @@ body{
     width: 50%;
     height: 15%;
     border-radius: 50%;
-    background: linear-gradient(transparent 10%, #f1f1f1 150%);
+    background: linear-gradient(#f1f1f1 );
 
 }
