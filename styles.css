@@ -260,5 +260,6 @@ body{
     left: -0.75rem;
     width: 0;
     height: 0;
-    border-left: 0.75rem solid transparent;
+    border-top: 0.5rem solid transparent;
+    
 }
