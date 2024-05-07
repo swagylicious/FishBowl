@@ -346,3 +346,13 @@ body{
 .fishbowl__tap--active .fishbowl__tap-handle{
     animation: handle 0.5s;
 }
+
+.fishbowl__tap-stream{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 0.5rem;
+    height: 0;
+    background: linear-gradient(transparent 0%, #f1f1f1 100%);
+    transform: translateX(-50%);
+}
