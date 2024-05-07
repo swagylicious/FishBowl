@@ -62,6 +62,20 @@ body{
     }
 }
 
+@keyframes wave {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(0.5rem);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
 .fishbowl{
     position: relative;
     width: 15rem;
