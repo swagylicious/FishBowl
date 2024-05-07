@@ -27,6 +27,6 @@ body{
     }
 
     45%{
-        transform: translatex(6rem) skewY(1deg);
+        transform: translatex(6rem) skewY(deg);
     }
 }
