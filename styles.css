@@ -488,6 +488,7 @@ body{
     }
     .fishbowl__tap-text{
         width: 2rem;
-        left: -3rem;
+        top: 1rem;
+        left: -3.5rem;
     }
 }
