@@ -201,5 +201,7 @@ body{
     transition-property: bottom, transform box-shadow;
     transition-duration: 1s;
     transition-timing-function: ease;
-    
+    animation: swimming;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
 }
