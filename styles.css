@@ -119,5 +119,8 @@ body{
 }
 
 .fishbowl__seaweed{
-    
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 0.5rem solid transparent;
 }
