@@ -262,5 +262,5 @@ body{
     height: 0;
     border-top: 0.5rem solid transparent;
     border-bottom: 0.5rem solid transparent;
-    border-right: 1rem solid #f1f1f1;
+    border-left: 0.94rem solid #f1f1f1;
 }
