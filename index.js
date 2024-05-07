@@ -23,4 +23,5 @@ intervalId = emptyFishbowl();
 
 tap.addEventListener('click', () => {
     tap.classList.add('fishbowl__tap--active');
+    setTimeout
 }
