@@ -465,5 +465,6 @@ body{
 }
 
 .fishbowl__tap-text{
-   
+    position: absolute;
+    top: 1rem;
 }
