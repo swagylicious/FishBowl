@@ -417,7 +417,7 @@ body{
     opacity: 0.3;
 }
 
-.fishbowl__tap-stream::before{
+.fishbowl__tap-head{
     content: "";
     position: absolute;
     top: 0;
