@@ -93,8 +93,9 @@ body{
 
 @keyframes handle{
     from{
-        transform: rotate(0);
+        transform: rotate(45deg);
     }
+    
 }
 
 .fishbowl{
