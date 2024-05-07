@@ -391,6 +391,6 @@ body{
     border-radius: 0.2rem;
     border-top: 1px solid #f1f1f1;
     border-right: 1px solid rgba(255, 255, 255, 0.5);
-    background: radial-gradient(circle at 50% 0, #f1f1f1, #f1f1f1 50%, #3b5f7f 60%, #3b5f7f 100%);
+    background: radial-gradient(circle at 0 0, #f1f1f1 -100%, #12386b);
     animation: handle 0.5s;
 }
