@@ -29,4 +29,8 @@ body{
     45%{
         transform: translatex(6rem) translateY(-1rem) skewY(5deg);
     }
+
+    55%{
+        transform: ;
+    }
 }
