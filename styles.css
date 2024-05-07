@@ -422,5 +422,7 @@ body{
     top: 0;
     left: 0;
     width: 4rem;
-    height: 4rem;
+    height: 0;
+    border-radius: 50% 50% 0 0;
+    border-top: 2 rem solid #f1f1f1;
 }
