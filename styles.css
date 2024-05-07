@@ -458,5 +458,7 @@ body{
     position: absolute;
     top: 1.5rem;
     left: 6rem;
-    width: rem;
+    width: 2rem;
+    height: 1rem;
+    
 }
